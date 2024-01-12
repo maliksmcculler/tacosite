@@ -1,5 +1,11 @@
-# tacosite
+# CSS Grid Tacosite
 This is a responsive site that i created using Wesbos course on css grid. It is a food website and you can see the layout that is posible with using css grid. This is a great course to do if you want to learn how the css grid works and plus it FREE!!!!!!!!!!
+
+# Technologies Used
+The technologies that I have used are HTML, CSS. I also used CSS Grid. 
+
+# How to Install and Run the Project
+Inorder to install and run the project just clone the project. 
 
 # Visuals
 
